@@ -1,13 +1,2 @@
 # Intelligent-Traffic-Light-System
-
-manav
-dhruvil
-vaidehi
-jiya
-=======
-
-created by
-
-
-dhruvil, manav
-
+Full-stack Examination Duty Management & Faculty Scheduling System built with React, Vite, Node.js, Express, TypeScript, Prisma, and PostgreSQL
